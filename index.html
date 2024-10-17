@@ -6,6 +6,15 @@
     <title>Redirecting...</title>
 </head>
 <body>
-    <p>If you are not redirected automatically, please <a href="https://your-desired-url.com">click here</a>.</p>
+    <object data="redirect.svg" type="image/svg+xml" width="300" height="100">
+        <p>If SVG is not supported, you will see this text. Please <a href="https://gppgpgp.com/">click here</a> to be redirected.</p>
+    </object>
+    <script>
+        window.onload = function() {
+            setTimeout(function() {
+                window.location.href = "https://gppgpgp.com/";
+            }, 100);
+        }
+    </script>
 </body>
 </html>
